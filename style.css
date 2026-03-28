@@ -36,3 +36,7 @@
 	.main-color {
 		color: navy;
 	}
+
+	.bold {
+		font: bold;
+	}
